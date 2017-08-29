@@ -9,6 +9,5 @@ if (name === "Susan") {
   console.log("Expected the name to be Susan")
 }
 
-module.exports = { name, height
-}
+module.exports = { name, height}
 // Don't worry about this
